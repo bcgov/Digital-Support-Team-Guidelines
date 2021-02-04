@@ -4,14 +4,14 @@ A new Digital Support Team within OCIO should support TB and DIB in assessing an
 
 ## Background
 
-* This OCIO Technical Annex supports the Government of BC in adopting a coherent, enterprise approach to funding and governing technology. The OCIO has been directed to sign off from an enterprise architecture perspective on operating and capital expenditures for information technology funding requests. 
+* This OCIO Digital Annex supports the Government of BC in adopting a coherent, enterprise approach to funding and governing technology. The OCIO has been directed to sign off from an enterprise architecture perspective on operating and capital expenditures for information technology funding requests. 
 
 * Efforts from the OCIO to enhance practices around funding technology align with government’s commitment to “restore public services and make opportunities available to everyone” while delivering on the promise of digital government.
 
 
 ## Purpose of tht Technical Annex
 
-* The OCIO Technical Annex (May 2020 draft) is intended to serve as a prototype. It could, in the future, support an updated digital investment model for government.
+* The OCIO Digital Annex (January 2021 draft) is intended to serve as a prototype. It could, in the future, support an updated digital investment model for government.
 
 * The Annex is designed to help implement government’s policy on IM and IT ([CPPM Chapter 12](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/im-it-management)), [the Digital Principles](https://github.com/bcgov/Digital-Principles), and [the Service Standard (draft)](https://github.com/rumoncarter/Service-Standard).
 
