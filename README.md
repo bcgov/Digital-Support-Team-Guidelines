@@ -9,7 +9,7 @@ A new Digital Support Team within OCIO should support TB and DIB in assessing an
 * Efforts from the OCIO to enhance practices around funding technology align with government’s commitment to “restore public services and make opportunities available to everyone” while delivering on the promise of digital government.
 
 
-## Purpose of tht Technical Annex
+## Purpose of the Digital Annex
 
 * The OCIO Digital Annex (January 2021 draft) is intended to serve as a prototype. It could, in the future, support an updated digital investment model for government.
 
