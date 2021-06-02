@@ -1,6 +1,6 @@
 # Digital-Support-Team-Guidelines
 
-The Digital Support Team within OCIO supports the Treasury and Digital Investment Boards in assessing and supporting ministries digital and tech initiatives. This repository will share guidelines and OCIO Digital Annex..
+The Digital Support Team within the Office of the Cheif Information Officer (OCIO) supports the Treasury Board and Digital Investment Board in assessing and supporting ministries digital and technology initiatives. This repository will share guidelines and OCIO Digital Annex.
 
 ## Background
 
