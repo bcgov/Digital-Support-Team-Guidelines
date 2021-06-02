@@ -1,6 +1,6 @@
 # Digital-Support-Team-Guidelines
 
-A new Digital Support Team within OCIO should support TB and DIB in assessing and supporting ministries digital and tech initiatives. This repositories will share guidelines and OCIO Digital Annex which intended to serve as a prototype.
+The Digital Support Team within OCIO supports the Treasury and Digital Investment Boards in assessing and supporting ministries digital and tech initiatives. This repository will share guidelines and OCIO Digital Annex..
 
 ## Background
 
@@ -11,7 +11,7 @@ A new Digital Support Team within OCIO should support TB and DIB in assessing an
 
 ## Purpose of the Digital Annex
 
-* The OCIO Digital Annex (January 2021 draft) is intended to serve as a prototype. It could, in the future, support an updated digital investment model for government.
+* The OCIO Digital Annex (April 2021 draft) is intended to serve as a prototype. It could, in the future, support an updated digital investment model for government.
 
 * The Annex is designed to help implement government’s policy on IM and IT ([CPPM Chapter 12](https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/im-it-management)), [the Digital Principles](https://github.com/bcgov/Digital-Principles), and [the Service Standard (draft)](https://github.com/rumoncarter/Service-Standard).
 
